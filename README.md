@@ -2,6 +2,13 @@
 
 💼 Currently working at <a href="https://skyplugins.com.br">SkyPlugins ©</a>
 
+<div>
+  <a href="https://github.com/BADnotice">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IamLightxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamLightxx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ### Used technologies:
 
   ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
